@@ -1,4 +1,4 @@
-// Service Worker - Ular Tangga v11.0.21 - PERMANENT INSTALL
+// Service Worker - Blocky Blast v5.0.10 - PERMANENT INSTALL
 const CACHE = "blockyBlast-v5.0.10";
 const ASSETS = [
   "./",
@@ -6,12 +6,12 @@ const ASSETS = [
   "./style.css",
   "./main.js",
   "./site.webmanifest",
-  "./images/favicon-96x96.png",
-  "./images/favicon.svg",
-  "./images/favicon.ico",
-  "./images/web-app-manifest-192x192.png",
-  "./images/web-app-manifest-512x512.png",
-  "./images/apple-touch-icon.png"
+  "./image/favicon-96x96.png",
+  "./image/favicon.svg",
+  "./image/favicon.ico",
+  "./image/web-app-manifest-192x192.png",
+  "./image/web-app-manifest-512x512.png",
+  "./image/apple-touch-icon.png"
 ];
 
 const GOOGLE_FONT_CSS = "https://fonts.googleapis.com/css2?family=Fredoka:wght@600;700&display=swap";
