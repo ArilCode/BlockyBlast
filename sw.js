@@ -1,5 +1,5 @@
-// Service Worker - Blocky Blast v5.0.10 - PERMANENT INSTALL
-const CACHE = "blockyBlast-v5.0.10";
+// Service Worker - Blocky Blast v5.0.11 - PERMANENT INSTALL
+const CACHE = "blockyBlast-v5.0.11";
 const ASSETS = [
   "./",
   "./index.html",
